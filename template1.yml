@@ -1,0 +1,9 @@
+application:
+    messages:
+        title : This is the title of template1
+        description : This is the description of the template1 property file.
+
+home:
+    videos:
+    - url: https://www.youtube.com/embed/ERM_1f9Hce8
+    - url: https://www.youtube.com/embed/d0uQHTaGrP4
